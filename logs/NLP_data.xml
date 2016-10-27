@@ -1,0 +1,1167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<inputFile>
+    <fileName>nlp_data.txt</fileName>
+    <sentences>
+        <beginPos>0</beginPos>
+        <endPos>265</endPos>
+        <ID>1</ID>
+        <tokens>
+            <ID>1</ID>
+            <word>The</word>
+        </tokens>
+        <tokens>
+            <ID>2</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>3</ID>
+            <word>term</word>
+        </tokens>
+        <tokens>
+            <ID>4</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>5</ID>
+            <word>"</word>
+        </tokens>
+        <tokens>
+            <ID>6</ID>
+            <word>First</word>
+        </tokens>
+        <tokens>
+            <ID>7</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>8</ID>
+            <word>World</word>
+        </tokens>
+        <tokens>
+            <ID>9</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>10</ID>
+            <word>War</word>
+        </tokens>
+        <tokens>
+            <ID>11</ID>
+            <word>"</word>
+        </tokens>
+        <tokens>
+            <ID>12</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>13</ID>
+            <word>was</word>
+        </tokens>
+        <tokens>
+            <ID>14</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>15</ID>
+            <word>first</word>
+        </tokens>
+        <tokens>
+            <ID>16</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>17</ID>
+            <word>used</word>
+        </tokens>
+        <tokens>
+            <ID>18</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>19</ID>
+            <word>in</word>
+        </tokens>
+        <tokens>
+            <ID>20</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>21</ID>
+            <word>September</word>
+        </tokens>
+        <tokens>
+            <ID>22</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>23</ID>
+            <word>1914</word>
+        </tokens>
+        <tokens>
+            <ID>24</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>25</ID>
+            <word>by</word>
+        </tokens>
+        <tokens>
+            <ID>26</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>27</ID>
+            <word>the</word>
+        </tokens>
+        <tokens>
+            <ID>28</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>29</ID>
+            <word>German</word>
+        </tokens>
+        <tokens>
+            <ID>30</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>31</ID>
+            <word>philosopher</word>
+        </tokens>
+        <tokens>
+            <ID>32</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>33</ID>
+            <word>Ernst</word>
+        </tokens>
+        <tokens>
+            <ID>34</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>35</ID>
+            <word>Haeckel</word>
+        </tokens>
+        <tokens>
+            <ID>36</ID>
+            <word>,</word>
+        </tokens>
+        <tokens>
+            <ID>37</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>38</ID>
+            <word>who</word>
+        </tokens>
+        <tokens>
+            <ID>39</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>40</ID>
+            <word>claimed</word>
+        </tokens>
+        <tokens>
+            <ID>41</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>42</ID>
+            <word>that</word>
+        </tokens>
+        <tokens>
+            <ID>43</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>44</ID>
+            <word>"</word>
+        </tokens>
+        <tokens>
+            <ID>45</ID>
+            <word>there</word>
+        </tokens>
+        <tokens>
+            <ID>46</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>47</ID>
+            <word>is</word>
+        </tokens>
+        <tokens>
+            <ID>48</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>49</ID>
+            <word>no</word>
+        </tokens>
+        <tokens>
+            <ID>50</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>51</ID>
+            <word>doubt</word>
+        </tokens>
+        <tokens>
+            <ID>52</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>53</ID>
+            <word>that</word>
+        </tokens>
+        <tokens>
+            <ID>54</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>55</ID>
+            <word>the</word>
+        </tokens>
+        <tokens>
+            <ID>56</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>57</ID>
+            <word>course</word>
+        </tokens>
+        <tokens>
+            <ID>58</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>59</ID>
+            <word>and</word>
+        </tokens>
+        <tokens>
+            <ID>60</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>61</ID>
+            <word>character</word>
+        </tokens>
+        <tokens>
+            <ID>62</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>63</ID>
+            <word>of</word>
+        </tokens>
+        <tokens>
+            <ID>64</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>65</ID>
+            <word>the</word>
+        </tokens>
+        <tokens>
+            <ID>66</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>67</ID>
+            <word>feared</word>
+        </tokens>
+        <tokens>
+            <ID>68</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>69</ID>
+            <word>'</word>
+        </tokens>
+        <tokens>
+            <ID>70</ID>
+            <word>European</word>
+        </tokens>
+        <tokens>
+            <ID>71</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>72</ID>
+            <word>War</word>
+        </tokens>
+        <tokens>
+            <ID>73</ID>
+            <word>'</word>
+        </tokens>
+        <tokens>
+            <ID>74</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>75</ID>
+            <word>.</word>
+        </tokens>
+        <tokens>
+            <ID>76</ID>
+            <word>.</word>
+        </tokens>
+        <tokens>
+            <ID>77</ID>
+            <word>.</word>
+        </tokens>
+        <tokens>
+            <ID>78</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>79</ID>
+            <word>will</word>
+        </tokens>
+        <tokens>
+            <ID>80</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>81</ID>
+            <word>become</word>
+        </tokens>
+        <tokens>
+            <ID>82</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>83</ID>
+            <word>the</word>
+        </tokens>
+        <tokens>
+            <ID>84</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>85</ID>
+            <word>first</word>
+        </tokens>
+        <tokens>
+            <ID>86</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>87</ID>
+            <word>world</word>
+        </tokens>
+        <tokens>
+            <ID>88</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>89</ID>
+            <word>war</word>
+        </tokens>
+        <tokens>
+            <ID>90</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>91</ID>
+            <word>in</word>
+        </tokens>
+        <tokens>
+            <ID>92</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>93</ID>
+            <word>the</word>
+        </tokens>
+        <tokens>
+            <ID>94</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>95</ID>
+            <word>full</word>
+        </tokens>
+        <tokens>
+            <ID>96</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>97</ID>
+            <word>sense</word>
+        </tokens>
+        <tokens>
+            <ID>98</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>99</ID>
+            <word>of</word>
+        </tokens>
+        <tokens>
+            <ID>100</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>101</ID>
+            <word>the</word>
+        </tokens>
+        <tokens>
+            <ID>102</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>103</ID>
+            <word>word</word>
+        </tokens>
+        <tokens>
+            <ID>104</ID>
+            <word>.</word>
+        </tokens>
+        <tokens>
+            <ID>105</ID>
+            <word>"</word>
+        </tokens>
+        <tokens>
+            <ID>106</ID>
+            <word>
+</word>
+        </tokens>
+        <tokens>
+            <ID>107</ID>
+            <word>
+</word>
+        </tokens>
+    </sentences>
+    <sentences>
+        <beginPos>265</beginPos>
+        <endPos>288</endPos>
+        <ID>2</ID>
+        <tokens>
+            <ID>1</ID>
+            <word>Why</word>
+        </tokens>
+        <tokens>
+            <ID>2</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>3</ID>
+            <word>did</word>
+        </tokens>
+        <tokens>
+            <ID>4</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>5</ID>
+            <word>the</word>
+        </tokens>
+        <tokens>
+            <ID>6</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>7</ID>
+            <word>war</word>
+        </tokens>
+        <tokens>
+            <ID>8</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>9</ID>
+            <word>begin</word>
+        </tokens>
+        <tokens>
+            <ID>10</ID>
+            <word>?</word>
+        </tokens>
+        <tokens>
+            <ID>11</ID>
+            <word> </word>
+        </tokens>
+    </sentences>
+    <sentences>
+        <beginPos>288</beginPos>
+        <endPos>512</endPos>
+        <ID>3</ID>
+        <tokens>
+            <ID>1</ID>
+            <word>The</word>
+        </tokens>
+        <tokens>
+            <ID>2</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>3</ID>
+            <word>immediate</word>
+        </tokens>
+        <tokens>
+            <ID>4</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>5</ID>
+            <word>trigger</word>
+        </tokens>
+        <tokens>
+            <ID>6</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>7</ID>
+            <word>for</word>
+        </tokens>
+        <tokens>
+            <ID>8</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>9</ID>
+            <word>war</word>
+        </tokens>
+        <tokens>
+            <ID>10</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>11</ID>
+            <word>was</word>
+        </tokens>
+        <tokens>
+            <ID>12</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>13</ID>
+            <word>the</word>
+        </tokens>
+        <tokens>
+            <ID>14</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>15</ID>
+            <word>28</word>
+        </tokens>
+        <tokens>
+            <ID>16</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>17</ID>
+            <word>June</word>
+        </tokens>
+        <tokens>
+            <ID>18</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>19</ID>
+            <word>1914</word>
+        </tokens>
+        <tokens>
+            <ID>20</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>21</ID>
+            <word>assassination</word>
+        </tokens>
+        <tokens>
+            <ID>22</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>23</ID>
+            <word>of</word>
+        </tokens>
+        <tokens>
+            <ID>24</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>25</ID>
+            <word>Archduke</word>
+        </tokens>
+        <tokens>
+            <ID>26</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>27</ID>
+            <word>Franz</word>
+        </tokens>
+        <tokens>
+            <ID>28</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>29</ID>
+            <word>Ferdinand</word>
+        </tokens>
+        <tokens>
+            <ID>30</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>31</ID>
+            <word>of</word>
+        </tokens>
+        <tokens>
+            <ID>32</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>33</ID>
+            <word>Austria</word>
+        </tokens>
+        <tokens>
+            <ID>34</ID>
+            <word>,</word>
+        </tokens>
+        <tokens>
+            <ID>35</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>36</ID>
+            <word>heir</word>
+        </tokens>
+        <tokens>
+            <ID>37</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>38</ID>
+            <word>to</word>
+        </tokens>
+        <tokens>
+            <ID>39</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>40</ID>
+            <word>the</word>
+        </tokens>
+        <tokens>
+            <ID>41</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>42</ID>
+            <word>throne</word>
+        </tokens>
+        <tokens>
+            <ID>43</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>44</ID>
+            <word>of</word>
+        </tokens>
+        <tokens>
+            <ID>45</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>46</ID>
+            <word>Austria-Hungary</word>
+        </tokens>
+        <tokens>
+            <ID>47</ID>
+            <word>,</word>
+        </tokens>
+        <tokens>
+            <ID>48</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>49</ID>
+            <word>by</word>
+        </tokens>
+        <tokens>
+            <ID>50</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>51</ID>
+            <word>Yugoslav</word>
+        </tokens>
+        <tokens>
+            <ID>52</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>53</ID>
+            <word>nationalist</word>
+        </tokens>
+        <tokens>
+            <ID>54</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>55</ID>
+            <word>Gavrilo</word>
+        </tokens>
+        <tokens>
+            <ID>56</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>57</ID>
+            <word>Princip</word>
+        </tokens>
+        <tokens>
+            <ID>58</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>59</ID>
+            <word>(</word>
+        </tokens>
+        <tokens>
+            <ID>60</ID>
+            <word>19</word>
+        </tokens>
+        <tokens>
+            <ID>61</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>62</ID>
+            <word>years</word>
+        </tokens>
+        <tokens>
+            <ID>63</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>64</ID>
+            <word>old</word>
+        </tokens>
+        <tokens>
+            <ID>65</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>66</ID>
+            <word>at</word>
+        </tokens>
+        <tokens>
+            <ID>67</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>68</ID>
+            <word>the</word>
+        </tokens>
+        <tokens>
+            <ID>69</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>70</ID>
+            <word>time</word>
+        </tokens>
+        <tokens>
+            <ID>71</ID>
+            <word>)</word>
+        </tokens>
+        <tokens>
+            <ID>72</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>73</ID>
+            <word>in</word>
+        </tokens>
+        <tokens>
+            <ID>74</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>75</ID>
+            <word>Sarajevo</word>
+        </tokens>
+        <tokens>
+            <ID>76</ID>
+            <word>.</word>
+        </tokens>
+        <tokens>
+            <ID>77</ID>
+            <word> </word>
+        </tokens>
+    </sentences>
+    <sentences>
+        <beginPos>512</beginPos>
+        <endPos>700</endPos>
+        <ID>4</ID>
+        <tokens>
+            <ID>1</ID>
+            <word>This</word>
+        </tokens>
+        <tokens>
+            <ID>2</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>3</ID>
+            <word>set</word>
+        </tokens>
+        <tokens>
+            <ID>4</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>5</ID>
+            <word>off</word>
+        </tokens>
+        <tokens>
+            <ID>6</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>7</ID>
+            <word>a</word>
+        </tokens>
+        <tokens>
+            <ID>8</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>9</ID>
+            <word>diplomatic</word>
+        </tokens>
+        <tokens>
+            <ID>10</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>11</ID>
+            <word>crisis</word>
+        </tokens>
+        <tokens>
+            <ID>12</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>13</ID>
+            <word>when</word>
+        </tokens>
+        <tokens>
+            <ID>14</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>15</ID>
+            <word>Austria-Hungary</word>
+        </tokens>
+        <tokens>
+            <ID>16</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>17</ID>
+            <word>delivered</word>
+        </tokens>
+        <tokens>
+            <ID>18</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>19</ID>
+            <word>an</word>
+        </tokens>
+        <tokens>
+            <ID>20</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>21</ID>
+            <word>ultimatum</word>
+        </tokens>
+        <tokens>
+            <ID>22</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>23</ID>
+            <word>to</word>
+        </tokens>
+        <tokens>
+            <ID>24</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>25</ID>
+            <word>the</word>
+        </tokens>
+        <tokens>
+            <ID>26</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>27</ID>
+            <word>Kingdom</word>
+        </tokens>
+        <tokens>
+            <ID>28</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>29</ID>
+            <word>of</word>
+        </tokens>
+        <tokens>
+            <ID>30</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>31</ID>
+            <word>Serbia</word>
+        </tokens>
+        <tokens>
+            <ID>32</ID>
+            <word>,</word>
+        </tokens>
+        <tokens>
+            <ID>33</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>34</ID>
+            <word>and</word>
+        </tokens>
+        <tokens>
+            <ID>35</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>36</ID>
+            <word>entangled</word>
+        </tokens>
+        <tokens>
+            <ID>37</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>38</ID>
+            <word>international</word>
+        </tokens>
+        <tokens>
+            <ID>39</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>40</ID>
+            <word>alliances</word>
+        </tokens>
+        <tokens>
+            <ID>41</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>42</ID>
+            <word>formed</word>
+        </tokens>
+        <tokens>
+            <ID>43</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>44</ID>
+            <word>over</word>
+        </tokens>
+        <tokens>
+            <ID>45</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>46</ID>
+            <word>the</word>
+        </tokens>
+        <tokens>
+            <ID>47</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>48</ID>
+            <word>previous</word>
+        </tokens>
+        <tokens>
+            <ID>49</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>50</ID>
+            <word>decades</word>
+        </tokens>
+        <tokens>
+            <ID>51</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>52</ID>
+            <word>were</word>
+        </tokens>
+        <tokens>
+            <ID>53</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>54</ID>
+            <word>invoked</word>
+        </tokens>
+        <tokens>
+            <ID>55</ID>
+            <word>.</word>
+        </tokens>
+        <tokens>
+            <ID>56</ID>
+            <word> </word>
+        </tokens>
+    </sentences>
+    <sentences>
+        <beginPos>700</beginPos>
+        <endPos>789</endPos>
+        <ID>5</ID>
+        <tokens>
+            <ID>1</ID>
+            <word>Within</word>
+        </tokens>
+        <tokens>
+            <ID>2</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>3</ID>
+            <word>weeks</word>
+        </tokens>
+        <tokens>
+            <ID>4</ID>
+            <word>,</word>
+        </tokens>
+        <tokens>
+            <ID>5</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>6</ID>
+            <word>the</word>
+        </tokens>
+        <tokens>
+            <ID>7</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>8</ID>
+            <word>major</word>
+        </tokens>
+        <tokens>
+            <ID>9</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>10</ID>
+            <word>powers</word>
+        </tokens>
+        <tokens>
+            <ID>11</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>12</ID>
+            <word>were</word>
+        </tokens>
+        <tokens>
+            <ID>13</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>14</ID>
+            <word>at</word>
+        </tokens>
+        <tokens>
+            <ID>15</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>16</ID>
+            <word>war</word>
+        </tokens>
+        <tokens>
+            <ID>17</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>18</ID>
+            <word>and</word>
+        </tokens>
+        <tokens>
+            <ID>19</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>20</ID>
+            <word>the</word>
+        </tokens>
+        <tokens>
+            <ID>21</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>22</ID>
+            <word>conflict</word>
+        </tokens>
+        <tokens>
+            <ID>23</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>24</ID>
+            <word>soon</word>
+        </tokens>
+        <tokens>
+            <ID>25</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>26</ID>
+            <word>spread</word>
+        </tokens>
+        <tokens>
+            <ID>27</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>28</ID>
+            <word>around</word>
+        </tokens>
+        <tokens>
+            <ID>29</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>30</ID>
+            <word>the</word>
+        </tokens>
+        <tokens>
+            <ID>31</ID>
+            <word> </word>
+        </tokens>
+        <tokens>
+            <ID>32</ID>
+            <word>world</word>
+        </tokens>
+        <tokens>
+            <ID>33</ID>
+            <word>.</word>
+        </tokens>
+    </sentences>
+</inputFile>
