@@ -1,29 +1,27 @@
 package dataModels;
 
 import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.Set;
 
 import javax.xml.bind.annotation.XmlElement;
-import javax.xml.bind.annotation.XmlRootElement;
-
-import dataModels.Token;
-
 
 public class Sentence {
-	private int _id;
+	private String _text;
 	private int _beginPos;
 	private int _endPos;
 	private ArrayList<Token> _words;
+	private Set<String> _foundNers;
 	
 	public Sentence(){
-		_id=0;
 		_beginPos=0;
 		_endPos=0;
 	}
 	
-	public Sentence(int iID, int iBeginPos, int iEndPos) {
-		_id = iID;
+	public Sentence(int iBeginPos, int iEndPos) {
 		_beginPos = iBeginPos;
 		_endPos = iEndPos;
+		_foundNers = new HashSet<String>();
 	}
 	
 	public void addWords(ArrayList<Token> iWordTokens) {
@@ -43,9 +41,13 @@ public class Sentence {
 		return _words.size();
 	}
 	
+	public void setText(String iText) {
+		_text = iText;
+	}
+	
 	@XmlElement
-	public int getID() {
-		return _id;
+	public String getText() {
+		return _text;
 	}
 	
 	@XmlElement
@@ -56,5 +58,43 @@ public class Sentence {
 	@XmlElement
 	public int getEndPos() {
 		return _endPos;
+	}
+
+	public Set<String> getFoundNers(){
+		return _foundNers;
+	}
+	
+	public void findNER(Set<String> iNERSet) {
+		for(String temp : iNERSet) {
+			Boolean tokenFound = false;
+			int index = _text.indexOf(temp);
+			if(index > -1) {
+				int i = 0, curPos = _beginPos;
+				int startPos = index + _beginPos;
+				int endPos = index+_beginPos+temp.length()-1;
+				while(curPos<startPos){
+					curPos=_words.get(++i).getBeginPos();
+				}
+				if(curPos != _words.get(i).getBeginPos()) {
+					continue;
+				}
+				int j = i;
+				while(curPos<endPos){
+					curPos=_words.get(j++).getBeginPos();
+				}
+				if(_words.get(j-2).getEndPos() != endPos){
+					continue;
+				}
+				else{
+					while(i<=j-2){
+						_words.get(i++).setNamedEntityTrue();
+						tokenFound=true;
+					}
+				}
+			}
+			if(tokenFound) {
+				_foundNers.add(temp);
+			}
+		}
 	}
 }

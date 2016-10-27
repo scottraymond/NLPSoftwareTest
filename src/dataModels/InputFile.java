@@ -8,7 +8,6 @@ import javax.xml.bind.annotation.XmlRootElement;
 @XmlRootElement
 public class InputFile {
 	private String _fileName;
-	private String _text;
 	private ArrayList<Sentence> _sentences;
 	
 	@XmlElement

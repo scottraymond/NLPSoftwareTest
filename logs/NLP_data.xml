@@ -3,1164 +3,1734 @@
     <fileName>nlp_data.txt</fileName>
     <sentences>
         <beginPos>0</beginPos>
-        <endPos>265</endPos>
-        <ID>1</ID>
+        <endPos>264</endPos>
+        <text>The term "First World War" was first used in September 1914 by the German philosopher Ernst Haeckel, who claimed that "there is no doubt that the course and character of the feared 'European War' ... will become the first world war in the full sense of the word."
+
+</text>
         <tokens>
-            <ID>1</ID>
+            <beginPos>0</beginPos>
+            <endPos>2</endPos>
+            <namedEntity>false</namedEntity>
             <word>The</word>
         </tokens>
         <tokens>
-            <ID>2</ID>
+            <beginPos>3</beginPos>
+            <endPos>3</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>3</ID>
+            <beginPos>4</beginPos>
+            <endPos>7</endPos>
+            <namedEntity>false</namedEntity>
             <word>term</word>
         </tokens>
         <tokens>
-            <ID>4</ID>
+            <beginPos>8</beginPos>
+            <endPos>8</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>5</ID>
+            <beginPos>9</beginPos>
+            <endPos>9</endPos>
+            <namedEntity>false</namedEntity>
             <word>"</word>
         </tokens>
         <tokens>
-            <ID>6</ID>
+            <beginPos>10</beginPos>
+            <endPos>14</endPos>
+            <namedEntity>false</namedEntity>
             <word>First</word>
         </tokens>
         <tokens>
-            <ID>7</ID>
+            <beginPos>15</beginPos>
+            <endPos>15</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>8</ID>
+            <beginPos>16</beginPos>
+            <endPos>20</endPos>
+            <namedEntity>false</namedEntity>
             <word>World</word>
         </tokens>
         <tokens>
-            <ID>9</ID>
+            <beginPos>21</beginPos>
+            <endPos>21</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>10</ID>
+            <beginPos>22</beginPos>
+            <endPos>24</endPos>
+            <namedEntity>false</namedEntity>
             <word>War</word>
         </tokens>
         <tokens>
-            <ID>11</ID>
+            <beginPos>25</beginPos>
+            <endPos>25</endPos>
+            <namedEntity>false</namedEntity>
             <word>"</word>
         </tokens>
         <tokens>
-            <ID>12</ID>
+            <beginPos>26</beginPos>
+            <endPos>26</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>13</ID>
+            <beginPos>27</beginPos>
+            <endPos>29</endPos>
+            <namedEntity>false</namedEntity>
             <word>was</word>
         </tokens>
         <tokens>
-            <ID>14</ID>
+            <beginPos>30</beginPos>
+            <endPos>30</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>15</ID>
+            <beginPos>31</beginPos>
+            <endPos>35</endPos>
+            <namedEntity>false</namedEntity>
             <word>first</word>
         </tokens>
         <tokens>
-            <ID>16</ID>
+            <beginPos>36</beginPos>
+            <endPos>36</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>17</ID>
+            <beginPos>37</beginPos>
+            <endPos>40</endPos>
+            <namedEntity>false</namedEntity>
             <word>used</word>
         </tokens>
         <tokens>
-            <ID>18</ID>
+            <beginPos>41</beginPos>
+            <endPos>41</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>19</ID>
+            <beginPos>42</beginPos>
+            <endPos>43</endPos>
+            <namedEntity>false</namedEntity>
             <word>in</word>
         </tokens>
         <tokens>
-            <ID>20</ID>
+            <beginPos>44</beginPos>
+            <endPos>44</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>21</ID>
+            <beginPos>45</beginPos>
+            <endPos>53</endPos>
+            <namedEntity>false</namedEntity>
             <word>September</word>
         </tokens>
         <tokens>
-            <ID>22</ID>
+            <beginPos>54</beginPos>
+            <endPos>54</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>23</ID>
+            <beginPos>55</beginPos>
+            <endPos>58</endPos>
+            <namedEntity>false</namedEntity>
             <word>1914</word>
         </tokens>
         <tokens>
-            <ID>24</ID>
+            <beginPos>59</beginPos>
+            <endPos>59</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>25</ID>
+            <beginPos>60</beginPos>
+            <endPos>61</endPos>
+            <namedEntity>false</namedEntity>
             <word>by</word>
         </tokens>
         <tokens>
-            <ID>26</ID>
+            <beginPos>62</beginPos>
+            <endPos>62</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>27</ID>
+            <beginPos>63</beginPos>
+            <endPos>65</endPos>
+            <namedEntity>false</namedEntity>
             <word>the</word>
         </tokens>
         <tokens>
-            <ID>28</ID>
+            <beginPos>66</beginPos>
+            <endPos>66</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>29</ID>
+            <beginPos>67</beginPos>
+            <endPos>72</endPos>
+            <namedEntity>false</namedEntity>
             <word>German</word>
         </tokens>
         <tokens>
-            <ID>30</ID>
+            <beginPos>73</beginPos>
+            <endPos>73</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>31</ID>
+            <beginPos>74</beginPos>
+            <endPos>84</endPos>
+            <namedEntity>false</namedEntity>
             <word>philosopher</word>
         </tokens>
         <tokens>
-            <ID>32</ID>
+            <beginPos>85</beginPos>
+            <endPos>85</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>33</ID>
+            <beginPos>86</beginPos>
+            <endPos>90</endPos>
+            <namedEntity>true</namedEntity>
             <word>Ernst</word>
         </tokens>
         <tokens>
-            <ID>34</ID>
+            <beginPos>91</beginPos>
+            <endPos>91</endPos>
+            <namedEntity>true</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>35</ID>
+            <beginPos>92</beginPos>
+            <endPos>98</endPos>
+            <namedEntity>true</namedEntity>
             <word>Haeckel</word>
         </tokens>
         <tokens>
-            <ID>36</ID>
+            <beginPos>99</beginPos>
+            <endPos>99</endPos>
+            <namedEntity>false</namedEntity>
             <word>,</word>
         </tokens>
         <tokens>
-            <ID>37</ID>
+            <beginPos>100</beginPos>
+            <endPos>100</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>38</ID>
+            <beginPos>101</beginPos>
+            <endPos>103</endPos>
+            <namedEntity>false</namedEntity>
             <word>who</word>
         </tokens>
         <tokens>
-            <ID>39</ID>
+            <beginPos>104</beginPos>
+            <endPos>104</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>40</ID>
+            <beginPos>105</beginPos>
+            <endPos>111</endPos>
+            <namedEntity>false</namedEntity>
             <word>claimed</word>
         </tokens>
         <tokens>
-            <ID>41</ID>
+            <beginPos>112</beginPos>
+            <endPos>112</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>42</ID>
+            <beginPos>113</beginPos>
+            <endPos>116</endPos>
+            <namedEntity>false</namedEntity>
             <word>that</word>
         </tokens>
         <tokens>
-            <ID>43</ID>
+            <beginPos>117</beginPos>
+            <endPos>117</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>44</ID>
+            <beginPos>118</beginPos>
+            <endPos>118</endPos>
+            <namedEntity>false</namedEntity>
             <word>"</word>
         </tokens>
         <tokens>
-            <ID>45</ID>
+            <beginPos>119</beginPos>
+            <endPos>123</endPos>
+            <namedEntity>false</namedEntity>
             <word>there</word>
         </tokens>
         <tokens>
-            <ID>46</ID>
+            <beginPos>124</beginPos>
+            <endPos>124</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>47</ID>
+            <beginPos>125</beginPos>
+            <endPos>126</endPos>
+            <namedEntity>false</namedEntity>
             <word>is</word>
         </tokens>
         <tokens>
-            <ID>48</ID>
+            <beginPos>127</beginPos>
+            <endPos>127</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>49</ID>
+            <beginPos>128</beginPos>
+            <endPos>129</endPos>
+            <namedEntity>false</namedEntity>
             <word>no</word>
         </tokens>
         <tokens>
-            <ID>50</ID>
+            <beginPos>130</beginPos>
+            <endPos>130</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>51</ID>
+            <beginPos>131</beginPos>
+            <endPos>135</endPos>
+            <namedEntity>false</namedEntity>
             <word>doubt</word>
         </tokens>
         <tokens>
-            <ID>52</ID>
+            <beginPos>136</beginPos>
+            <endPos>136</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>53</ID>
+            <beginPos>137</beginPos>
+            <endPos>140</endPos>
+            <namedEntity>false</namedEntity>
             <word>that</word>
         </tokens>
         <tokens>
-            <ID>54</ID>
+            <beginPos>141</beginPos>
+            <endPos>141</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>55</ID>
+            <beginPos>142</beginPos>
+            <endPos>144</endPos>
+            <namedEntity>false</namedEntity>
             <word>the</word>
         </tokens>
         <tokens>
-            <ID>56</ID>
+            <beginPos>145</beginPos>
+            <endPos>145</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>57</ID>
+            <beginPos>146</beginPos>
+            <endPos>151</endPos>
+            <namedEntity>false</namedEntity>
             <word>course</word>
         </tokens>
         <tokens>
-            <ID>58</ID>
+            <beginPos>152</beginPos>
+            <endPos>152</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>59</ID>
+            <beginPos>153</beginPos>
+            <endPos>155</endPos>
+            <namedEntity>false</namedEntity>
             <word>and</word>
         </tokens>
         <tokens>
-            <ID>60</ID>
+            <beginPos>156</beginPos>
+            <endPos>156</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>61</ID>
+            <beginPos>157</beginPos>
+            <endPos>165</endPos>
+            <namedEntity>false</namedEntity>
             <word>character</word>
         </tokens>
         <tokens>
-            <ID>62</ID>
+            <beginPos>166</beginPos>
+            <endPos>166</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>63</ID>
+            <beginPos>167</beginPos>
+            <endPos>168</endPos>
+            <namedEntity>false</namedEntity>
             <word>of</word>
         </tokens>
         <tokens>
-            <ID>64</ID>
+            <beginPos>169</beginPos>
+            <endPos>169</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>65</ID>
+            <beginPos>170</beginPos>
+            <endPos>172</endPos>
+            <namedEntity>false</namedEntity>
             <word>the</word>
         </tokens>
         <tokens>
-            <ID>66</ID>
+            <beginPos>173</beginPos>
+            <endPos>173</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>67</ID>
+            <beginPos>174</beginPos>
+            <endPos>179</endPos>
+            <namedEntity>false</namedEntity>
             <word>feared</word>
         </tokens>
         <tokens>
-            <ID>68</ID>
+            <beginPos>180</beginPos>
+            <endPos>180</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>69</ID>
+            <beginPos>181</beginPos>
+            <endPos>181</endPos>
+            <namedEntity>false</namedEntity>
             <word>'</word>
         </tokens>
         <tokens>
-            <ID>70</ID>
+            <beginPos>182</beginPos>
+            <endPos>189</endPos>
+            <namedEntity>false</namedEntity>
             <word>European</word>
         </tokens>
         <tokens>
-            <ID>71</ID>
+            <beginPos>190</beginPos>
+            <endPos>190</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>72</ID>
+            <beginPos>191</beginPos>
+            <endPos>193</endPos>
+            <namedEntity>false</namedEntity>
             <word>War</word>
         </tokens>
         <tokens>
-            <ID>73</ID>
+            <beginPos>194</beginPos>
+            <endPos>194</endPos>
+            <namedEntity>false</namedEntity>
             <word>'</word>
         </tokens>
         <tokens>
-            <ID>74</ID>
+            <beginPos>195</beginPos>
+            <endPos>195</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>75</ID>
+            <beginPos>196</beginPos>
+            <endPos>196</endPos>
+            <namedEntity>false</namedEntity>
             <word>.</word>
         </tokens>
         <tokens>
-            <ID>76</ID>
+            <beginPos>197</beginPos>
+            <endPos>197</endPos>
+            <namedEntity>false</namedEntity>
             <word>.</word>
         </tokens>
         <tokens>
-            <ID>77</ID>
+            <beginPos>198</beginPos>
+            <endPos>198</endPos>
+            <namedEntity>false</namedEntity>
             <word>.</word>
         </tokens>
         <tokens>
-            <ID>78</ID>
+            <beginPos>199</beginPos>
+            <endPos>199</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>79</ID>
+            <beginPos>200</beginPos>
+            <endPos>203</endPos>
+            <namedEntity>false</namedEntity>
             <word>will</word>
         </tokens>
         <tokens>
-            <ID>80</ID>
+            <beginPos>204</beginPos>
+            <endPos>204</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>81</ID>
+            <beginPos>205</beginPos>
+            <endPos>210</endPos>
+            <namedEntity>false</namedEntity>
             <word>become</word>
         </tokens>
         <tokens>
-            <ID>82</ID>
+            <beginPos>211</beginPos>
+            <endPos>211</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>83</ID>
+            <beginPos>212</beginPos>
+            <endPos>214</endPos>
+            <namedEntity>false</namedEntity>
             <word>the</word>
         </tokens>
         <tokens>
-            <ID>84</ID>
+            <beginPos>215</beginPos>
+            <endPos>215</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>85</ID>
+            <beginPos>216</beginPos>
+            <endPos>220</endPos>
+            <namedEntity>false</namedEntity>
             <word>first</word>
         </tokens>
         <tokens>
-            <ID>86</ID>
+            <beginPos>221</beginPos>
+            <endPos>221</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>87</ID>
+            <beginPos>222</beginPos>
+            <endPos>226</endPos>
+            <namedEntity>false</namedEntity>
             <word>world</word>
         </tokens>
         <tokens>
-            <ID>88</ID>
+            <beginPos>227</beginPos>
+            <endPos>227</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>89</ID>
+            <beginPos>228</beginPos>
+            <endPos>230</endPos>
+            <namedEntity>false</namedEntity>
             <word>war</word>
         </tokens>
         <tokens>
-            <ID>90</ID>
+            <beginPos>231</beginPos>
+            <endPos>231</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>91</ID>
+            <beginPos>232</beginPos>
+            <endPos>233</endPos>
+            <namedEntity>false</namedEntity>
             <word>in</word>
         </tokens>
         <tokens>
-            <ID>92</ID>
+            <beginPos>234</beginPos>
+            <endPos>234</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>93</ID>
+            <beginPos>235</beginPos>
+            <endPos>237</endPos>
+            <namedEntity>false</namedEntity>
             <word>the</word>
         </tokens>
         <tokens>
-            <ID>94</ID>
+            <beginPos>238</beginPos>
+            <endPos>238</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>95</ID>
+            <beginPos>239</beginPos>
+            <endPos>242</endPos>
+            <namedEntity>false</namedEntity>
             <word>full</word>
         </tokens>
         <tokens>
-            <ID>96</ID>
+            <beginPos>243</beginPos>
+            <endPos>243</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>97</ID>
+            <beginPos>244</beginPos>
+            <endPos>248</endPos>
+            <namedEntity>false</namedEntity>
             <word>sense</word>
         </tokens>
         <tokens>
-            <ID>98</ID>
+            <beginPos>249</beginPos>
+            <endPos>249</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>99</ID>
+            <beginPos>250</beginPos>
+            <endPos>251</endPos>
+            <namedEntity>false</namedEntity>
             <word>of</word>
         </tokens>
         <tokens>
-            <ID>100</ID>
+            <beginPos>252</beginPos>
+            <endPos>252</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>101</ID>
+            <beginPos>253</beginPos>
+            <endPos>255</endPos>
+            <namedEntity>false</namedEntity>
             <word>the</word>
         </tokens>
         <tokens>
-            <ID>102</ID>
+            <beginPos>256</beginPos>
+            <endPos>256</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>103</ID>
+            <beginPos>257</beginPos>
+            <endPos>260</endPos>
+            <namedEntity>false</namedEntity>
             <word>word</word>
         </tokens>
         <tokens>
-            <ID>104</ID>
+            <beginPos>261</beginPos>
+            <endPos>261</endPos>
+            <namedEntity>false</namedEntity>
             <word>.</word>
         </tokens>
         <tokens>
-            <ID>105</ID>
+            <beginPos>262</beginPos>
+            <endPos>262</endPos>
+            <namedEntity>false</namedEntity>
             <word>"</word>
         </tokens>
         <tokens>
-            <ID>106</ID>
+            <beginPos>263</beginPos>
+            <endPos>263</endPos>
+            <namedEntity>false</namedEntity>
             <word>
 </word>
         </tokens>
         <tokens>
-            <ID>107</ID>
+            <beginPos>264</beginPos>
+            <endPos>264</endPos>
+            <namedEntity>false</namedEntity>
             <word>
 </word>
         </tokens>
     </sentences>
     <sentences>
         <beginPos>265</beginPos>
-        <endPos>288</endPos>
-        <ID>2</ID>
+        <endPos>287</endPos>
+        <text>Why did the war begin? </text>
         <tokens>
-            <ID>1</ID>
+            <beginPos>265</beginPos>
+            <endPos>267</endPos>
+            <namedEntity>false</namedEntity>
             <word>Why</word>
         </tokens>
         <tokens>
-            <ID>2</ID>
+            <beginPos>268</beginPos>
+            <endPos>268</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>3</ID>
+            <beginPos>269</beginPos>
+            <endPos>271</endPos>
+            <namedEntity>false</namedEntity>
             <word>did</word>
         </tokens>
         <tokens>
-            <ID>4</ID>
+            <beginPos>272</beginPos>
+            <endPos>272</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>5</ID>
+            <beginPos>273</beginPos>
+            <endPos>275</endPos>
+            <namedEntity>false</namedEntity>
             <word>the</word>
         </tokens>
         <tokens>
-            <ID>6</ID>
+            <beginPos>276</beginPos>
+            <endPos>276</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>7</ID>
+            <beginPos>277</beginPos>
+            <endPos>279</endPos>
+            <namedEntity>false</namedEntity>
             <word>war</word>
         </tokens>
         <tokens>
-            <ID>8</ID>
+            <beginPos>280</beginPos>
+            <endPos>280</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>9</ID>
+            <beginPos>281</beginPos>
+            <endPos>285</endPos>
+            <namedEntity>false</namedEntity>
             <word>begin</word>
         </tokens>
         <tokens>
-            <ID>10</ID>
+            <beginPos>286</beginPos>
+            <endPos>286</endPos>
+            <namedEntity>false</namedEntity>
             <word>?</word>
         </tokens>
         <tokens>
-            <ID>11</ID>
+            <beginPos>287</beginPos>
+            <endPos>287</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
     </sentences>
     <sentences>
         <beginPos>288</beginPos>
-        <endPos>512</endPos>
-        <ID>3</ID>
+        <endPos>511</endPos>
+        <text>The immediate trigger for war was the 28 June 1914 assassination of Archduke Franz Ferdinand of Austria, heir to the throne of Austria-Hungary, by Yugoslav nationalist Gavrilo Princip (19 years old at the time) in Sarajevo. </text>
         <tokens>
-            <ID>1</ID>
+            <beginPos>288</beginPos>
+            <endPos>290</endPos>
+            <namedEntity>false</namedEntity>
             <word>The</word>
         </tokens>
         <tokens>
-            <ID>2</ID>
+            <beginPos>291</beginPos>
+            <endPos>291</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>3</ID>
+            <beginPos>292</beginPos>
+            <endPos>300</endPos>
+            <namedEntity>false</namedEntity>
             <word>immediate</word>
         </tokens>
         <tokens>
-            <ID>4</ID>
+            <beginPos>301</beginPos>
+            <endPos>301</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>5</ID>
+            <beginPos>302</beginPos>
+            <endPos>308</endPos>
+            <namedEntity>false</namedEntity>
             <word>trigger</word>
         </tokens>
         <tokens>
-            <ID>6</ID>
+            <beginPos>309</beginPos>
+            <endPos>309</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>7</ID>
+            <beginPos>310</beginPos>
+            <endPos>312</endPos>
+            <namedEntity>false</namedEntity>
             <word>for</word>
         </tokens>
         <tokens>
-            <ID>8</ID>
+            <beginPos>313</beginPos>
+            <endPos>313</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>9</ID>
+            <beginPos>314</beginPos>
+            <endPos>316</endPos>
+            <namedEntity>false</namedEntity>
             <word>war</word>
         </tokens>
         <tokens>
-            <ID>10</ID>
+            <beginPos>317</beginPos>
+            <endPos>317</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>11</ID>
+            <beginPos>318</beginPos>
+            <endPos>320</endPos>
+            <namedEntity>false</namedEntity>
             <word>was</word>
         </tokens>
         <tokens>
-            <ID>12</ID>
+            <beginPos>321</beginPos>
+            <endPos>321</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>13</ID>
+            <beginPos>322</beginPos>
+            <endPos>324</endPos>
+            <namedEntity>false</namedEntity>
             <word>the</word>
         </tokens>
         <tokens>
-            <ID>14</ID>
+            <beginPos>325</beginPos>
+            <endPos>325</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>15</ID>
+            <beginPos>326</beginPos>
+            <endPos>327</endPos>
+            <namedEntity>false</namedEntity>
             <word>28</word>
         </tokens>
         <tokens>
-            <ID>16</ID>
+            <beginPos>328</beginPos>
+            <endPos>328</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>17</ID>
+            <beginPos>329</beginPos>
+            <endPos>332</endPos>
+            <namedEntity>false</namedEntity>
             <word>June</word>
         </tokens>
         <tokens>
-            <ID>18</ID>
+            <beginPos>333</beginPos>
+            <endPos>333</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>19</ID>
+            <beginPos>334</beginPos>
+            <endPos>337</endPos>
+            <namedEntity>false</namedEntity>
             <word>1914</word>
         </tokens>
         <tokens>
-            <ID>20</ID>
+            <beginPos>338</beginPos>
+            <endPos>338</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>21</ID>
+            <beginPos>339</beginPos>
+            <endPos>351</endPos>
+            <namedEntity>false</namedEntity>
             <word>assassination</word>
         </tokens>
         <tokens>
-            <ID>22</ID>
+            <beginPos>352</beginPos>
+            <endPos>352</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>23</ID>
+            <beginPos>353</beginPos>
+            <endPos>354</endPos>
+            <namedEntity>false</namedEntity>
             <word>of</word>
         </tokens>
         <tokens>
-            <ID>24</ID>
+            <beginPos>355</beginPos>
+            <endPos>355</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>25</ID>
+            <beginPos>356</beginPos>
+            <endPos>363</endPos>
+            <namedEntity>false</namedEntity>
             <word>Archduke</word>
         </tokens>
         <tokens>
-            <ID>26</ID>
+            <beginPos>364</beginPos>
+            <endPos>364</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>27</ID>
+            <beginPos>365</beginPos>
+            <endPos>369</endPos>
+            <namedEntity>true</namedEntity>
             <word>Franz</word>
         </tokens>
         <tokens>
-            <ID>28</ID>
+            <beginPos>370</beginPos>
+            <endPos>370</endPos>
+            <namedEntity>true</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>29</ID>
+            <beginPos>371</beginPos>
+            <endPos>379</endPos>
+            <namedEntity>true</namedEntity>
             <word>Ferdinand</word>
         </tokens>
         <tokens>
-            <ID>30</ID>
+            <beginPos>380</beginPos>
+            <endPos>380</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>31</ID>
+            <beginPos>381</beginPos>
+            <endPos>382</endPos>
+            <namedEntity>false</namedEntity>
             <word>of</word>
         </tokens>
         <tokens>
-            <ID>32</ID>
+            <beginPos>383</beginPos>
+            <endPos>383</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>33</ID>
+            <beginPos>384</beginPos>
+            <endPos>390</endPos>
+            <namedEntity>false</namedEntity>
             <word>Austria</word>
         </tokens>
         <tokens>
-            <ID>34</ID>
+            <beginPos>391</beginPos>
+            <endPos>391</endPos>
+            <namedEntity>false</namedEntity>
             <word>,</word>
         </tokens>
         <tokens>
-            <ID>35</ID>
+            <beginPos>392</beginPos>
+            <endPos>392</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>36</ID>
+            <beginPos>393</beginPos>
+            <endPos>396</endPos>
+            <namedEntity>false</namedEntity>
             <word>heir</word>
         </tokens>
         <tokens>
-            <ID>37</ID>
+            <beginPos>397</beginPos>
+            <endPos>397</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>38</ID>
+            <beginPos>398</beginPos>
+            <endPos>399</endPos>
+            <namedEntity>false</namedEntity>
             <word>to</word>
         </tokens>
         <tokens>
-            <ID>39</ID>
+            <beginPos>400</beginPos>
+            <endPos>400</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>40</ID>
+            <beginPos>401</beginPos>
+            <endPos>403</endPos>
+            <namedEntity>false</namedEntity>
             <word>the</word>
         </tokens>
         <tokens>
-            <ID>41</ID>
+            <beginPos>404</beginPos>
+            <endPos>404</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>42</ID>
+            <beginPos>405</beginPos>
+            <endPos>410</endPos>
+            <namedEntity>false</namedEntity>
             <word>throne</word>
         </tokens>
         <tokens>
-            <ID>43</ID>
+            <beginPos>411</beginPos>
+            <endPos>411</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>44</ID>
+            <beginPos>412</beginPos>
+            <endPos>413</endPos>
+            <namedEntity>false</namedEntity>
             <word>of</word>
         </tokens>
         <tokens>
-            <ID>45</ID>
+            <beginPos>414</beginPos>
+            <endPos>414</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>46</ID>
+            <beginPos>415</beginPos>
+            <endPos>429</endPos>
+            <namedEntity>true</namedEntity>
             <word>Austria-Hungary</word>
         </tokens>
         <tokens>
-            <ID>47</ID>
+            <beginPos>430</beginPos>
+            <endPos>430</endPos>
+            <namedEntity>false</namedEntity>
             <word>,</word>
         </tokens>
         <tokens>
-            <ID>48</ID>
+            <beginPos>431</beginPos>
+            <endPos>431</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>49</ID>
+            <beginPos>432</beginPos>
+            <endPos>433</endPos>
+            <namedEntity>false</namedEntity>
             <word>by</word>
         </tokens>
         <tokens>
-            <ID>50</ID>
+            <beginPos>434</beginPos>
+            <endPos>434</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>51</ID>
+            <beginPos>435</beginPos>
+            <endPos>442</endPos>
+            <namedEntity>false</namedEntity>
             <word>Yugoslav</word>
         </tokens>
         <tokens>
-            <ID>52</ID>
+            <beginPos>443</beginPos>
+            <endPos>443</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>53</ID>
+            <beginPos>444</beginPos>
+            <endPos>454</endPos>
+            <namedEntity>false</namedEntity>
             <word>nationalist</word>
         </tokens>
         <tokens>
-            <ID>54</ID>
+            <beginPos>455</beginPos>
+            <endPos>455</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>55</ID>
+            <beginPos>456</beginPos>
+            <endPos>462</endPos>
+            <namedEntity>true</namedEntity>
             <word>Gavrilo</word>
         </tokens>
         <tokens>
-            <ID>56</ID>
+            <beginPos>463</beginPos>
+            <endPos>463</endPos>
+            <namedEntity>true</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>57</ID>
+            <beginPos>464</beginPos>
+            <endPos>470</endPos>
+            <namedEntity>true</namedEntity>
             <word>Princip</word>
         </tokens>
         <tokens>
-            <ID>58</ID>
+            <beginPos>471</beginPos>
+            <endPos>471</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>59</ID>
+            <beginPos>472</beginPos>
+            <endPos>472</endPos>
+            <namedEntity>false</namedEntity>
             <word>(</word>
         </tokens>
         <tokens>
-            <ID>60</ID>
+            <beginPos>473</beginPos>
+            <endPos>474</endPos>
+            <namedEntity>false</namedEntity>
             <word>19</word>
         </tokens>
         <tokens>
-            <ID>61</ID>
+            <beginPos>475</beginPos>
+            <endPos>475</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>62</ID>
+            <beginPos>476</beginPos>
+            <endPos>480</endPos>
+            <namedEntity>false</namedEntity>
             <word>years</word>
         </tokens>
         <tokens>
-            <ID>63</ID>
+            <beginPos>481</beginPos>
+            <endPos>481</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>64</ID>
+            <beginPos>482</beginPos>
+            <endPos>484</endPos>
+            <namedEntity>false</namedEntity>
             <word>old</word>
         </tokens>
         <tokens>
-            <ID>65</ID>
+            <beginPos>485</beginPos>
+            <endPos>485</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>66</ID>
+            <beginPos>486</beginPos>
+            <endPos>487</endPos>
+            <namedEntity>false</namedEntity>
             <word>at</word>
         </tokens>
         <tokens>
-            <ID>67</ID>
+            <beginPos>488</beginPos>
+            <endPos>488</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>68</ID>
+            <beginPos>489</beginPos>
+            <endPos>491</endPos>
+            <namedEntity>false</namedEntity>
             <word>the</word>
         </tokens>
         <tokens>
-            <ID>69</ID>
+            <beginPos>492</beginPos>
+            <endPos>492</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>70</ID>
+            <beginPos>493</beginPos>
+            <endPos>496</endPos>
+            <namedEntity>false</namedEntity>
             <word>time</word>
         </tokens>
         <tokens>
-            <ID>71</ID>
+            <beginPos>497</beginPos>
+            <endPos>497</endPos>
+            <namedEntity>false</namedEntity>
             <word>)</word>
         </tokens>
         <tokens>
-            <ID>72</ID>
+            <beginPos>498</beginPos>
+            <endPos>498</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>73</ID>
+            <beginPos>499</beginPos>
+            <endPos>500</endPos>
+            <namedEntity>false</namedEntity>
             <word>in</word>
         </tokens>
         <tokens>
-            <ID>74</ID>
+            <beginPos>501</beginPos>
+            <endPos>501</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>75</ID>
+            <beginPos>502</beginPos>
+            <endPos>509</endPos>
+            <namedEntity>true</namedEntity>
             <word>Sarajevo</word>
         </tokens>
         <tokens>
-            <ID>76</ID>
+            <beginPos>510</beginPos>
+            <endPos>510</endPos>
+            <namedEntity>false</namedEntity>
             <word>.</word>
         </tokens>
         <tokens>
-            <ID>77</ID>
+            <beginPos>511</beginPos>
+            <endPos>511</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
     </sentences>
     <sentences>
         <beginPos>512</beginPos>
-        <endPos>700</endPos>
-        <ID>4</ID>
+        <endPos>699</endPos>
+        <text>This set off a diplomatic crisis when Austria-Hungary delivered an ultimatum to the Kingdom of Serbia, and entangled international alliances formed over the previous decades were invoked. </text>
         <tokens>
-            <ID>1</ID>
+            <beginPos>512</beginPos>
+            <endPos>515</endPos>
+            <namedEntity>false</namedEntity>
             <word>This</word>
         </tokens>
         <tokens>
-            <ID>2</ID>
+            <beginPos>516</beginPos>
+            <endPos>516</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>3</ID>
+            <beginPos>517</beginPos>
+            <endPos>519</endPos>
+            <namedEntity>false</namedEntity>
             <word>set</word>
         </tokens>
         <tokens>
-            <ID>4</ID>
+            <beginPos>520</beginPos>
+            <endPos>520</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>5</ID>
+            <beginPos>521</beginPos>
+            <endPos>523</endPos>
+            <namedEntity>false</namedEntity>
             <word>off</word>
         </tokens>
         <tokens>
-            <ID>6</ID>
+            <beginPos>524</beginPos>
+            <endPos>524</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>7</ID>
+            <beginPos>525</beginPos>
+            <endPos>525</endPos>
+            <namedEntity>false</namedEntity>
             <word>a</word>
         </tokens>
         <tokens>
-            <ID>8</ID>
+            <beginPos>526</beginPos>
+            <endPos>526</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>9</ID>
+            <beginPos>527</beginPos>
+            <endPos>536</endPos>
+            <namedEntity>false</namedEntity>
             <word>diplomatic</word>
         </tokens>
         <tokens>
-            <ID>10</ID>
+            <beginPos>537</beginPos>
+            <endPos>537</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>11</ID>
+            <beginPos>538</beginPos>
+            <endPos>543</endPos>
+            <namedEntity>false</namedEntity>
             <word>crisis</word>
         </tokens>
         <tokens>
-            <ID>12</ID>
+            <beginPos>544</beginPos>
+            <endPos>544</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>13</ID>
+            <beginPos>545</beginPos>
+            <endPos>548</endPos>
+            <namedEntity>false</namedEntity>
             <word>when</word>
         </tokens>
         <tokens>
-            <ID>14</ID>
+            <beginPos>549</beginPos>
+            <endPos>549</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>15</ID>
+            <beginPos>550</beginPos>
+            <endPos>564</endPos>
+            <namedEntity>true</namedEntity>
             <word>Austria-Hungary</word>
         </tokens>
         <tokens>
-            <ID>16</ID>
+            <beginPos>565</beginPos>
+            <endPos>565</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>17</ID>
+            <beginPos>566</beginPos>
+            <endPos>574</endPos>
+            <namedEntity>false</namedEntity>
             <word>delivered</word>
         </tokens>
         <tokens>
-            <ID>18</ID>
+            <beginPos>575</beginPos>
+            <endPos>575</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>19</ID>
+            <beginPos>576</beginPos>
+            <endPos>577</endPos>
+            <namedEntity>false</namedEntity>
             <word>an</word>
         </tokens>
         <tokens>
-            <ID>20</ID>
+            <beginPos>578</beginPos>
+            <endPos>578</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>21</ID>
+            <beginPos>579</beginPos>
+            <endPos>587</endPos>
+            <namedEntity>false</namedEntity>
             <word>ultimatum</word>
         </tokens>
         <tokens>
-            <ID>22</ID>
+            <beginPos>588</beginPos>
+            <endPos>588</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>23</ID>
+            <beginPos>589</beginPos>
+            <endPos>590</endPos>
+            <namedEntity>false</namedEntity>
             <word>to</word>
         </tokens>
         <tokens>
-            <ID>24</ID>
+            <beginPos>591</beginPos>
+            <endPos>591</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>25</ID>
+            <beginPos>592</beginPos>
+            <endPos>594</endPos>
+            <namedEntity>false</namedEntity>
             <word>the</word>
         </tokens>
         <tokens>
-            <ID>26</ID>
+            <beginPos>595</beginPos>
+            <endPos>595</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>27</ID>
+            <beginPos>596</beginPos>
+            <endPos>602</endPos>
+            <namedEntity>false</namedEntity>
             <word>Kingdom</word>
         </tokens>
         <tokens>
-            <ID>28</ID>
+            <beginPos>603</beginPos>
+            <endPos>603</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>29</ID>
+            <beginPos>604</beginPos>
+            <endPos>605</endPos>
+            <namedEntity>false</namedEntity>
             <word>of</word>
         </tokens>
         <tokens>
-            <ID>30</ID>
+            <beginPos>606</beginPos>
+            <endPos>606</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>31</ID>
+            <beginPos>607</beginPos>
+            <endPos>612</endPos>
+            <namedEntity>true</namedEntity>
             <word>Serbia</word>
         </tokens>
         <tokens>
-            <ID>32</ID>
+            <beginPos>613</beginPos>
+            <endPos>613</endPos>
+            <namedEntity>false</namedEntity>
             <word>,</word>
         </tokens>
         <tokens>
-            <ID>33</ID>
+            <beginPos>614</beginPos>
+            <endPos>614</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>34</ID>
+            <beginPos>615</beginPos>
+            <endPos>617</endPos>
+            <namedEntity>false</namedEntity>
             <word>and</word>
         </tokens>
         <tokens>
-            <ID>35</ID>
+            <beginPos>618</beginPos>
+            <endPos>618</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>36</ID>
+            <beginPos>619</beginPos>
+            <endPos>627</endPos>
+            <namedEntity>false</namedEntity>
             <word>entangled</word>
         </tokens>
         <tokens>
-            <ID>37</ID>
+            <beginPos>628</beginPos>
+            <endPos>628</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>38</ID>
+            <beginPos>629</beginPos>
+            <endPos>641</endPos>
+            <namedEntity>false</namedEntity>
             <word>international</word>
         </tokens>
         <tokens>
-            <ID>39</ID>
+            <beginPos>642</beginPos>
+            <endPos>642</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>40</ID>
+            <beginPos>643</beginPos>
+            <endPos>651</endPos>
+            <namedEntity>false</namedEntity>
             <word>alliances</word>
         </tokens>
         <tokens>
-            <ID>41</ID>
+            <beginPos>652</beginPos>
+            <endPos>652</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>42</ID>
+            <beginPos>653</beginPos>
+            <endPos>658</endPos>
+            <namedEntity>false</namedEntity>
             <word>formed</word>
         </tokens>
         <tokens>
-            <ID>43</ID>
+            <beginPos>659</beginPos>
+            <endPos>659</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>44</ID>
+            <beginPos>660</beginPos>
+            <endPos>663</endPos>
+            <namedEntity>false</namedEntity>
             <word>over</word>
         </tokens>
         <tokens>
-            <ID>45</ID>
+            <beginPos>664</beginPos>
+            <endPos>664</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>46</ID>
+            <beginPos>665</beginPos>
+            <endPos>667</endPos>
+            <namedEntity>false</namedEntity>
             <word>the</word>
         </tokens>
         <tokens>
-            <ID>47</ID>
+            <beginPos>668</beginPos>
+            <endPos>668</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>48</ID>
+            <beginPos>669</beginPos>
+            <endPos>676</endPos>
+            <namedEntity>false</namedEntity>
             <word>previous</word>
         </tokens>
         <tokens>
-            <ID>49</ID>
+            <beginPos>677</beginPos>
+            <endPos>677</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>50</ID>
+            <beginPos>678</beginPos>
+            <endPos>684</endPos>
+            <namedEntity>false</namedEntity>
             <word>decades</word>
         </tokens>
         <tokens>
-            <ID>51</ID>
+            <beginPos>685</beginPos>
+            <endPos>685</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>52</ID>
+            <beginPos>686</beginPos>
+            <endPos>689</endPos>
+            <namedEntity>false</namedEntity>
             <word>were</word>
         </tokens>
         <tokens>
-            <ID>53</ID>
+            <beginPos>690</beginPos>
+            <endPos>690</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>54</ID>
+            <beginPos>691</beginPos>
+            <endPos>697</endPos>
+            <namedEntity>false</namedEntity>
             <word>invoked</word>
         </tokens>
         <tokens>
-            <ID>55</ID>
+            <beginPos>698</beginPos>
+            <endPos>698</endPos>
+            <namedEntity>false</namedEntity>
             <word>.</word>
         </tokens>
         <tokens>
-            <ID>56</ID>
+            <beginPos>699</beginPos>
+            <endPos>699</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
     </sentences>
     <sentences>
         <beginPos>700</beginPos>
-        <endPos>789</endPos>
-        <ID>5</ID>
+        <endPos>788</endPos>
+        <text>Within weeks, the major powers were at war and the conflict soon spread around the world.</text>
         <tokens>
-            <ID>1</ID>
+            <beginPos>700</beginPos>
+            <endPos>705</endPos>
+            <namedEntity>false</namedEntity>
             <word>Within</word>
         </tokens>
         <tokens>
-            <ID>2</ID>
+            <beginPos>706</beginPos>
+            <endPos>706</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>3</ID>
+            <beginPos>707</beginPos>
+            <endPos>711</endPos>
+            <namedEntity>false</namedEntity>
             <word>weeks</word>
         </tokens>
         <tokens>
-            <ID>4</ID>
+            <beginPos>712</beginPos>
+            <endPos>712</endPos>
+            <namedEntity>false</namedEntity>
             <word>,</word>
         </tokens>
         <tokens>
-            <ID>5</ID>
+            <beginPos>713</beginPos>
+            <endPos>713</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>6</ID>
+            <beginPos>714</beginPos>
+            <endPos>716</endPos>
+            <namedEntity>false</namedEntity>
             <word>the</word>
         </tokens>
         <tokens>
-            <ID>7</ID>
+            <beginPos>717</beginPos>
+            <endPos>717</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>8</ID>
+            <beginPos>718</beginPos>
+            <endPos>722</endPos>
+            <namedEntity>false</namedEntity>
             <word>major</word>
         </tokens>
         <tokens>
-            <ID>9</ID>
+            <beginPos>723</beginPos>
+            <endPos>723</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>10</ID>
+            <beginPos>724</beginPos>
+            <endPos>729</endPos>
+            <namedEntity>false</namedEntity>
             <word>powers</word>
         </tokens>
         <tokens>
-            <ID>11</ID>
+            <beginPos>730</beginPos>
+            <endPos>730</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>12</ID>
+            <beginPos>731</beginPos>
+            <endPos>734</endPos>
+            <namedEntity>false</namedEntity>
             <word>were</word>
         </tokens>
         <tokens>
-            <ID>13</ID>
+            <beginPos>735</beginPos>
+            <endPos>735</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>14</ID>
+            <beginPos>736</beginPos>
+            <endPos>737</endPos>
+            <namedEntity>false</namedEntity>
             <word>at</word>
         </tokens>
         <tokens>
-            <ID>15</ID>
+            <beginPos>738</beginPos>
+            <endPos>738</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>16</ID>
+            <beginPos>739</beginPos>
+            <endPos>741</endPos>
+            <namedEntity>false</namedEntity>
             <word>war</word>
         </tokens>
         <tokens>
-            <ID>17</ID>
+            <beginPos>742</beginPos>
+            <endPos>742</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>18</ID>
+            <beginPos>743</beginPos>
+            <endPos>745</endPos>
+            <namedEntity>false</namedEntity>
             <word>and</word>
         </tokens>
         <tokens>
-            <ID>19</ID>
+            <beginPos>746</beginPos>
+            <endPos>746</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>20</ID>
+            <beginPos>747</beginPos>
+            <endPos>749</endPos>
+            <namedEntity>false</namedEntity>
             <word>the</word>
         </tokens>
         <tokens>
-            <ID>21</ID>
+            <beginPos>750</beginPos>
+            <endPos>750</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>22</ID>
+            <beginPos>751</beginPos>
+            <endPos>758</endPos>
+            <namedEntity>false</namedEntity>
             <word>conflict</word>
         </tokens>
         <tokens>
-            <ID>23</ID>
+            <beginPos>759</beginPos>
+            <endPos>759</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>24</ID>
+            <beginPos>760</beginPos>
+            <endPos>763</endPos>
+            <namedEntity>false</namedEntity>
             <word>soon</word>
         </tokens>
         <tokens>
-            <ID>25</ID>
+            <beginPos>764</beginPos>
+            <endPos>764</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>26</ID>
+            <beginPos>765</beginPos>
+            <endPos>770</endPos>
+            <namedEntity>false</namedEntity>
             <word>spread</word>
         </tokens>
         <tokens>
-            <ID>27</ID>
+            <beginPos>771</beginPos>
+            <endPos>771</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>28</ID>
+            <beginPos>772</beginPos>
+            <endPos>777</endPos>
+            <namedEntity>false</namedEntity>
             <word>around</word>
         </tokens>
         <tokens>
-            <ID>29</ID>
+            <beginPos>778</beginPos>
+            <endPos>778</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>30</ID>
+            <beginPos>779</beginPos>
+            <endPos>781</endPos>
+            <namedEntity>false</namedEntity>
             <word>the</word>
         </tokens>
         <tokens>
-            <ID>31</ID>
+            <beginPos>782</beginPos>
+            <endPos>782</endPos>
+            <namedEntity>false</namedEntity>
             <word> </word>
         </tokens>
         <tokens>
-            <ID>32</ID>
+            <beginPos>783</beginPos>
+            <endPos>787</endPos>
+            <namedEntity>false</namedEntity>
             <word>world</word>
         </tokens>
         <tokens>
-            <ID>33</ID>
+            <beginPos>788</beginPos>
+            <endPos>788</endPos>
+            <namedEntity>false</namedEntity>
             <word>.</word>
         </tokens>
     </sentences>
